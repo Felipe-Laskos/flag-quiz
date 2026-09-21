@@ -20,3 +20,9 @@ e o jogador precisa digitar o nome do país. Cada acerto vale 20 pontos.
 - "Correto!" em verde ou "Incorreto!" em vermelho, mostrando o país certo quando o jogador erra.
 - Pontuação: 20 pontos por acerto (máximo 100).
 - Nome e pontuação são enviados entre as Activities via `Intent.putExtra`.
+
+## Integrantes
+
+Lucas Sarnacki Guiraud - GRR20241773
+Felipe Matheus Laskos - GRR20241326
+João Vitor Zanini Pedro - GRR20242373
