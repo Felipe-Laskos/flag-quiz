@@ -1,0 +1,10 @@
+App03 – Grimório de Hogwarts
+DS151 – Desenvolvimento para Dispositivos Móveis
+
+Integrantes:
+- Lucas Sarnacki Guiraud – GRR20241773
+- Felipe Matheus Laskos – GRR20241326
+- João Vitor Zanini Pedro – GRR20242373
+
+Repositório: https://github.com/Felipe-Laskos/mobile-app03
+APK: App03-Grimorio-de-Hogwarts.apk
